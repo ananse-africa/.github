@@ -27,5 +27,5 @@
   - [Facebook](https://www.facebook.com/ananseafrica)
 
 <p style="text-align: center;">
-<strong>Ananse (/əˈnɑːnsi/) Africa</strong> – Weaving the future of African fashion, one story at a time.  
+  <strong>Ananse (/əˈnɑːnsi/) Africa</strong> – Weaving the future of African fashion, one story at a time.
 </p>
